@@ -1,0 +1,25 @@
+{
+    "name": "Chartboost.Mediation.IronSource.IOS",
+    "rootNamespace": "Chartboost.Mediation.IronSource.IOS",
+    "references": [
+        "Chartboost.Threading",
+        "Chartboost.Logging",
+        "Chartboost.Mediation.IronSource",
+        "Chartboost.Mediation",
+        "Chartboost.Utilities.IOS"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
