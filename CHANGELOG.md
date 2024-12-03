@@ -1,10 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file using the standards as defined at [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0).
 
-### Version 5.0.2 *(2024-10-28)*
+### Version 5.0.4 *(2024-10-17)*
 This version of the IronSource Adapter supports the following native SDK dependencies:
   * Android: `com.chartboost:chartboost-mediation-adapter-ironsource:chartboost-mediation-adapter-ironsource:5.8.2.+`
-  * iOS: `ChartboostMediationAdapterIronSource: ~> 5.8.3.0`
+  * iOS: `ChartboostMediationAdapterIronSource: ~> 5.8.4.0.0`
 
 ### Version 5.0.0 *(2024-08-08)*
 
