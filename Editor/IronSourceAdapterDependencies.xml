@@ -2,7 +2,7 @@
 <dependencies>
     <androidPackages>
         <!-- Android Adapter -->
-        <androidPackage spec="com.chartboost:chartboost-mediation-adapter-ironsource:5.8.8.+"/>
+        <androidPackage spec="com.chartboost:chartboost-mediation-adapter-ironsource:5.8.9.+"/>
         
         <!-- IronSource Android Repositories -->
         <repositories>
