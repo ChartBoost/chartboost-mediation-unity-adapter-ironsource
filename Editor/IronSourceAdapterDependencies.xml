@@ -11,9 +11,9 @@
     </androidPackages>
     <iosPods>
         <!-- iOS Adapter -->
-        <iosPod name="ChartboostMediationAdapterIronSource" version="~> 5.9.0.0"/>
+        <iosPod name="ChartboostMediationAdapterIronSource" version="~> 5.9.1.0"/>
 
         <!-- Partner iOS SDK-->
-        <iosPod name="IronSourceSDK" version="~> 9.0.0" addToAllTargets="false"/>
+        <iosPod name="IronSourceSDK" version="~> 9.1.0" addToAllTargets="false"/>
     </iosPods>
 </dependencies>
