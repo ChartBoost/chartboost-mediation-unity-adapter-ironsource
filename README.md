@@ -12,7 +12,7 @@ In order to add the Chartboost Mediation Unity SDK - IronSource Adapter to your 
 
 ```json
 "dependencies": {
-    "com.chartboost.mediation.unity.adapter.ironsource": "5.1.2",
+    "com.chartboost.mediation.unity.adapter.ironsource": "5.1.3",
     ...
 },
 "scopedRegistries": [
