@@ -1,6 +1,6 @@
 {
     "name": "com.chartboost.mediation.unity.adapter.ironsource",
-    "version": "5.1.3",
+    "version": "5.2.0",
     "license": "MIT",
     "displayName": "Chartboost Mediation Adapter - IronSource",
     "description": "The Chartboost Mediation Unity SDK Adapter for IronSource.",
